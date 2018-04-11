@@ -1,2 +1,2 @@
 [![](https://travis-ci.org/imagej/example-script-collection.svg?branch=master)](https://travis-ci.org/imagej/example-script-collection)
-
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/facf0eb976f44461af81d4469d597c0d)](https://www.codacy.com/app/imagejan/example-script-collection?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=imagej/example-script-collection&amp;utm_campaign=Badge_Grade)
