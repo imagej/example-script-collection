@@ -54,6 +54,11 @@
 			<url>https://imagej.net/User:Rueden</url>
 			<properties><id>ctrueden</id></properties>
 		</contributor>
+		<contributor>
+			<name>Stefan Helfrich</name>
+			<url>https://imagej.net/User:Stelfrich</url>
+			<properties><id>stelfrich</id></properties>
+		</contributor>
 	</contributors>
 
 	<mailingLists>
@@ -98,6 +103,7 @@
 		<dependency>
 			<groupId>net.imagej</groupId>
 			<artifactId>imagej</artifactId>
+			<scope>provided</scope>
 		</dependency>
 	</dependencies>
 </project>
