@@ -8,17 +8,16 @@
 	<parent>
 		<groupId>org.scijava</groupId>
 		<artifactId>pom-scijava</artifactId>
-		<version>17.1.1</version>
+		<version>19.2.0</version>
 		<relativePath />
 	</parent>
 
-	<groupId>com.mycompany</groupId>
-	<artifactId>ScriptCollection</artifactId>
+	<artifactId>example-script-collection</artifactId>
 	<version>0.1.0-SNAPSHOT</version>
 
 	<name>Script Collection</name>
 	<description>A Maven project collecting ImageJ scripts.</description>
-	<url>http://mycompany.com/imagej/script-collection/</url>
+	<url>N/A</url>
 	<inceptionYear>2017</inceptionYear>
 	<organization>
 		<name>My Company</name>
@@ -84,7 +83,6 @@
 
 	<properties>
 		<package-name>com.mycompany.imagej</package-name>
-		<main-class>com.mycompany.imagej.GaussFiltering</main-class>
 		<license.licenseName>bsd_2</license.licenseName>
 		<license.copyrightOwners>My Company, Inc.</license.copyrightOwners>
 
@@ -104,6 +102,11 @@
 			<groupId>net.imagej</groupId>
 			<artifactId>imagej</artifactId>
 			<scope>provided</scope>
+		</dependency>
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<scope>test</scope>
 		</dependency>
 	</dependencies>
 </project>
