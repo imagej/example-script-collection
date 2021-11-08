@@ -68,7 +68,7 @@
 	</mailingLists>
 
 	<scm>
-		<connection>scm:git:git://github.com/imagej/example-script-collection</connection>
+		<connection>scm:git:https://github.com/imagej/example-script-collection</connection>
 		<developerConnection>scm:git:git@github.com:imagej/example-script-collection</developerConnection>
 		<tag>HEAD</tag>
 		<url>https://github.com/imagej/example-script-collection</url>
