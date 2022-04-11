@@ -1,6 +1,6 @@
 # Example script collection for ImageJ
 
-[![Travis CI](https://travis-ci.org/imagej/example-script-collection.svg?branch=master)](https://travis-ci.org/imagej/example-script-collection)
+[![CI Build](https://github.com/imagej/example-script-collection/actions/workflows/build-main.yml/badge.svg)](https://github.com/imagej/example-script-collection/actions/workflows/build-main.yml)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/facf0eb976f44461af81d4469d597c0d)](https://www.codacy.com/app/imagejan/example-script-collection?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=imagej/example-script-collection&amp;utm_campaign=Badge_Grade)
 
 This repository illustrates how to manage several ImageJ scripts in a
@@ -18,7 +18,7 @@ files to an update site.
 Keeping script files in a collection like this one adds the following benefits:
 
 * *Dependency* management with Maven
-* *Versioned* deployment using Git, Maven, and Travis CI
+* *Versioned* deployment using Git, Maven, and GitHub Actions
 * Optionally: keep your scripts functional by running *Java unit tests* with every build
 
 ## How to use
