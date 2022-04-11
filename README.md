@@ -44,4 +44,4 @@ Keeping script files in a collection like this one adds the following benefits:
 
 ## Questions
 
-Please ask on the [Image.sc Forum](http://forum.image.sc/tags/imagej).
+Please ask on the [Image.sc Forum](https://forum.image.sc/tag/imagej).
