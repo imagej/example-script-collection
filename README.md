@@ -1,6 +1,6 @@
 # Example script collection for ImageJ
 
-[![CI Build](https://github.com/imagej/example-script-collection/actions/workflows/build-main.yml/badge.svg)](https://github.com/imagej/example-script-collection/actions/workflows/build-main.yml)
+[![Build Status](https://github.com/imagej/example-script-collection/actions/workflows/build.yml/badge.svg)](https://github.com/imagej/example-script-collection/actions/workflows/build.yml)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/facf0eb976f44461af81d4469d597c0d)](https://www.codacy.com/app/imagejan/example-script-collection?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=imagej/example-script-collection&amp;utm_campaign=Badge_Grade)
 
 This repository illustrates how to manage several ImageJ scripts in a
